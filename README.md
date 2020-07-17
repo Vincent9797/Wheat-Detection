@@ -30,7 +30,7 @@ and
 This allowed me to get a validation mAP of ~0.93 at the end of the training.
 
 ### Evaluation
-The submission notebook on Kaggle can be found here: [https://www.kaggle.com/vincentyong97/efficientdet-inference](https://www.kaggle.com/vincentyong97/efficientdet-inference).
+The submission notebook on Kaggle can be found here: [https://www.kaggle.com/vincentyong97/efficientdet-inference](https://www.kaggle.com/vincentyong97/efficientdet-inference). The code needed to run inference can be found on there as well.
 
 An example of the output looks as such: 
 
